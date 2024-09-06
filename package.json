@@ -1,0 +1,15 @@
+{
+  "name": "weatherappexpressjs",
+  "version": "1.0.0",
+  "description": "Learning Express.js &amp; completely managed by Bhupender Yadav.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhupender Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "hbs": "^4.2.0"
+  }
+}
