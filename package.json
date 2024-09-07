@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Learning Express.js &amp; completely managed by Bhupender Yadav.",
   "main": "index.js",
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
   },
   "author": "Bhupender Yadav",
   "license": "ISC",
